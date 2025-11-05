@@ -12,4 +12,4 @@ Bei der Programmierung der Oxocard bringt der Einsatz der Arduino IDE als Ersatz
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/titelbild.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/2528009072051733550). Hier finden Sie die 3D-Druckdateien für die Absaugung.
