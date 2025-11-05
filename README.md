@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Oxocard in C programmieren
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Durch den ESP32-Mikroprozessor als Oxocard-Basis bietet sich aber auch die Arduino IDE mit C++ als Entwicklungsumgebung an.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Bei der Programmierung der Oxocard bringt der Einsatz der Arduino IDE als Ersatz für Nanopy sowohl Einsteigern als auch Profis Vorteile, wie dieser Beitrag zeigt.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/titelbild.jpg) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
